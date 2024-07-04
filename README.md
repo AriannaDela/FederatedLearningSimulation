@@ -11,6 +11,8 @@ Il progetto adotta una serie di strategie volte a:
 - Consentire lo studio delle sfide e dell'efficacia del Federated Learning.
 - Evitare la complessità di un sistema distribuito su larga scala.
 
-
-
+ **Nota**: Se si verifica un problema durante l'installazione di `flower["simulation"]`, può essere risolto installando `ray` separatamente:
+  ```bash
+  pip install ray
+  ```
 
